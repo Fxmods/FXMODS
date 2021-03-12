@@ -6,4 +6,4 @@
 ![Telegram Badge](https://img.shields.io/badge/-MonkiDiRufi-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/MonkiDiRufi)
 
 ## 🎯 **Mugiwara Github Stats**
-![Mugiwara github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Mugiwara github stats](https://github-readme-stats.vercel.app/api?username=StrawHatLufy&show_icons=true&include_all_commits=true&theme=tokyonight)
