@@ -1,4 +1,4 @@
-![colorless](https://telegra.ph/file/c23f25a1558599d1f29eb.jpg)
+![Luffy](https://telegra.ph/file/534ed41c4d9b7ad8548d7.jpg)
 
 # Hi there, I'm Luffy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/StrawHatLufy)](https://github.com/StrawHatLufy)                                                                                                                  
