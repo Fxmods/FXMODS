@@ -4,6 +4,3 @@
 [![Profile views](https://gpvc.arturio.dev/TopiJeramiLuffy)](https://github.com/TopiJeramiLuffy)                                                                                                                  
 
 ![Telegram Badge](https://img.shields.io/badge/-RikonAsw-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/RikonAsw)
-
-## 🎯 **Mugiwara Github Stats**
-![Mugiwara github stats](https://github-readme-stats.vercel.app/api?username=TopiJeramiLuffy_icons=true&include_all_commits=true&theme=tokyonight)
