@@ -1,4 +1,4 @@
-![killer](https://www.wallpapermaiden.com/image/2020/10/20/flandre-scarlet-loli-blonde-vampire-red-eyes-touhou-fang-cute-anime-42171.jpg)
+![killer](https://telegra.ph/file/2952ab268115c7d1bd4d7.jpg)
 
 ## Hi there, I'm Loli killers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/LoliKillers)](https://github.com/LoliKillers)                                                                                                                  
