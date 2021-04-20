@@ -1,10 +1,10 @@
-![002](https://coolthemestores.com/wp-content/uploads/2020/12/zero-two-feature.jpg)
+![killer](https://www.wallpapermaiden.com/image/2020/10/20/flandre-scarlet-loli-blonde-vampire-red-eyes-touhou-fang-cute-anime-42171.jpeg)
 
-## Hi there, I'm 002 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
-[![Profile views](https://gpvc.arturio.dev/Zer0-Tw0)](https://github.com/Zer0-Tw0)                                                                                                                  
+## Hi there, I'm Loli killers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+[![Profile views](https://gpvc.arturio.dev/LoliKillers)](https://github.com/LoliKillers)                                                                                                                  
 
-![Telegram Badge](https://img.shields.io/badge/-RikonAsw-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/RikonAsw)
+![Telegram Badge](https://img.shields.io/badge/-L.K-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/RikonAsw)
 
-## 🎯 **002 Github Stats**
-![Zero Two github stats](https://github-readme-stats.vercel.app/api?username=Zer0-Tw0&show_icons=true&include_all_commits=true&theme=tokyonight)
+## 🎯 **L.K Github Stats**
+![Loli Killers github stats](https://github-readme-stats.vercel.app/api?username=LoliKillers&show_icons=true&include_all_commits=true&theme=tokyonight)
 
