@@ -1,4 +1,4 @@
-![killer](https://telegra.ph/file/2952ab268115c7d1bd4d7.jpg)
+![killer](https://telegra.ph/file/7d7ce788e023b491b8d14.jpg)
 
 ## Hi there, I'm Loli killers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/LoliKillers)](https://github.com/LoliKillers)                                                                                                                  
