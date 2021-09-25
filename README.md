@@ -1,7 +1,7 @@
+![LOLI](https://raw.githubusercontent.com/LoliKillers/LoliKillers/main/preview.gif)
 ### Hi there 👋
 
 
-<!--
 **LoliKillers/LoliKillers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
