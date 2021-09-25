@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Loli killers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/LoliKillers)](https://github.com/LoliKillers)                                                                                                                  
-https://img.shields.io/github/followers/LoliKillers?style=social
+[![Followers](https://img.shields.io/github/followers/LoliKillers?style=social)]
 ## Contact Me
 <a href="https://t.me/Loli_Killers" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
