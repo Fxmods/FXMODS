@@ -6,6 +6,8 @@
 ## Contact Me
 <a href="https://t.me/Loli_Killers" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
+<a href="lolikillers751@gmail.com" alt="Email"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white /></a>
+
 <a href="https://wa.me/6285852203076" alt="Whatsapp!"> <img src="https://aleen42.github.io/badges/src/whatsapp.svg" /> </a>
 
 ## 🎯 **L.K Github Stats**
