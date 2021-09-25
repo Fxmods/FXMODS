@@ -4,7 +4,7 @@
 
 ## GitHub Stats 🌟
 
-![Loli Killers github stats](https://github-readme-stats.vercel.app/api?username=LoliKillers&theme=dark&count_private=true&show_icons=true&cache_seconds=1800)
+![Loli Killers github stats](https://github-readme-stats.vercel.app/api?username=LoliKillers&theme=radical&count_private=true&show_icons=true&cache_seconds=1800)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoliKillers&layout=compact)](https://github.com/LoliKillers/github-readme-stats)
 ![counter](https://komarev.com/ghpvc/?username=LoliKillers&style=flat-square)
 
