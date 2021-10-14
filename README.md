@@ -10,6 +10,7 @@
 
 ```TypeScript
 
+
 import { contact, User } from './github'
 
 export default class ME implements User {
@@ -29,6 +30,22 @@ export default class ME implements User {
             {
                 name: contact.WhatsApp,
                 url: 'https://wa.me/6286785445412?text=Fuck...'
+            },
+            {
+                name: contact.Instagram,
+                url: 'https://instagram.com/ariasu.xyz'
+            },
+            {
+                name: contact.Telegarm,
+                url: 'https://t.me/Loli_Killers'
+            },
+            {
+                name: contact.Discord,
+                url: 'Loli_Killers#2811'
+            },
+            {
+              name: contact.github,
+              url: 'https://github.com/LoliKillers'
             }
         ]
     }
@@ -42,6 +59,8 @@ export default class ME implements User {
         },
     ]
 }
+
+```
 
 ```
 
