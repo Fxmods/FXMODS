@@ -57,6 +57,13 @@ export default class ME implements User {
             language: ["JavaScript","CSS","HTML"],
             maintanied: true
         },
+        {
+            name: 'lolkil-api',
+            homepage: 'https://www.npmjs.com/package/lolkil-api',
+            repo: 'https://github.com/LoliKillers/lolkil-api',
+            lenguage: ["JavaScritp"],
+            maintanied: true
+         }
     ]
 }
 
