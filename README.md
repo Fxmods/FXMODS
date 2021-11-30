@@ -17,7 +17,7 @@ export default class ME implements User {
     public static firstName = 'Ari'
     public static lastName = 'Susanto'
     public static username = 'Loli_Killers'
-    public static website = 'https://badai-api.herokuapp.com'
+    public static website = 'https://api.loli.loveslife.biz'
     public static aliases = ['LolKill']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python']
     public static info = {
@@ -40,12 +40,8 @@ export default class ME implements User {
                 url: 'https://t.me/Loli_Killers'
             },
             {
-                name: contact.Discord,
-                url: 'Loli_Killers#2811'
-            },
-            {
-              name: contact.github,
-              url: 'https://github.com/LoliKillers'
+                name: contact.github,
+                url: 'https://github.com/LoliKillers'
             }
         ]
     }
