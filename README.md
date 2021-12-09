@@ -1,4 +1,4 @@
-![LOLI](https://raw.githubusercontent.com/Fxmods/Fxmods/main/preview.gif)
+![FX](https://raw.githubusercontent.com/Fxmods/Fxmods/main/preview.gif)
 ### Hola a todos 👋
 
 
@@ -16,7 +16,7 @@ export default class ME implements User {
     public static firstName = 'Fx'
     public static lastName = 'M'
     public static username = 'FxMods'
-    public static website = 'https://api.loli.loveslife.biz'
+    public static website = 'https://fxteam.xyz'
     public static aliases = ['FxMods']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'Python']
     public static info = {
